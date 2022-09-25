@@ -88,7 +88,7 @@ p {
 }
 
 .backgroundsearch {
-  background-color: #0000005a;
+  background-color: #1684f25a;
   padding-top: 15px;
   padding-bottom: 15px;
 }
@@ -107,8 +107,8 @@ p {
   margin-right: auto;
   margin-top: 22px;
   appearance: none;
-  background-color: #000000;
-  border: 2px solid #1a1a1a;
+  background-color: #1684f25a;
+  border: 2px solid #1684f25a;
   border-radius: 15px;
   box-sizing: border-box;
   color: #ffffff;
